@@ -140,9 +140,7 @@ export default function Home() {
               </p>
               <div className="highlight-box">
                 <p>
-                  This procedure handles identity registration, eligibility review, and
-                  slot confirmation. This is an <strong>educational replica</strong> —
-                  no data is transmitted anywhere.
+                This procedure handles identity registration, eligibility review, and slot confirmation—all formally traceable. By clicking "Next," you confirm you understand it is only for restitution verification.
                 </p>
               </div>
               <p>
